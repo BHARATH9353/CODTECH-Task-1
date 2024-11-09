@@ -17,6 +17,7 @@ A simple Python script that allows you to convert temperatures between Celsius, 
 - [Contributing](#contributing)
 - [License](#license)
 
+
 ## Features
 - Convert temperatures between Celsius, Fahrenheit, and Kelvin.
 - Choose from various conversion options: Celsius to Fahrenheit, Fahrenheit to Celsius, Celsius to Kelvin, Kelvin to Celsius, Fahrenheit to Kelvin, and Kelvin to Fahrenheit.
@@ -25,8 +26,6 @@ A simple Python script that allows you to convert temperatures between Celsius, 
 ## Getting Started
 Follow these instructions to get started with the Temperature Converter:
 
-## Requirements
-- Python 3.6 or higher
 
 ## Installation
 1. Clone this repository to your local machine:
@@ -54,9 +53,6 @@ Enter your choice (1/2/3/4/5/6): 1
 Enter temperature in Celsius: 25
 25.0 Celsius = 77.0 Fahrenheit
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contributing
-Contributions are welcome! Please feel free to open issues or pull requests to suggest improvements or report bugs.
-Happy temperature converting!
+#Overview of the Project
+Project: Converts Temperatures between Celsius,Fahrenheit and Kelvin Scales
+![Screenshot_20230531_101940](https://github.com/user-attachments/assets/f75eedcf-22fc-497c-9584-2ad96581627f)
